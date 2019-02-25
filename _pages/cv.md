@@ -14,6 +14,13 @@ Education
 * B.S. in Computational Mathematics, University of Science and Technology of China (USTC), 2018
 * M.S. candidate in Computational Mathematics, University of Science and Technology of China (USTC)
 
+Research Interests
+======
+  * Computer graphics
+  * Computer vision
+  * Machine learning
+  * Geometry processing
+
 Work experience
 ======
 * 2017.10 - 2018.01: Research Intern
@@ -21,7 +28,7 @@ Work experience
   * Research: Develop real-time 3d facial expression transfer system.
   * Supervisor: [Professor Juyong Zhang](http://staff.ustc.edu.cn/~juyong/)
 
-* 2018.02 - 2018.05: Software Engineering Intern
+* 2018.02 - 2018.05: Software Engineer Intern
   * [Dilusense](http://www.dilusense.com/) 
   * Duties included: Implementing algorithms for 3D face reconstruction and expression transfer tasks. Regular testing and releasing.
 
@@ -32,33 +39,17 @@ Work experience
   * Mentor: [Dr. Dmitry Anisimov](https://anisimovdmitry.com/#/about)
 
   
-Skills
+Coding Skills
 ======
-* C++ Programming
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++ 
+* Generic Programming
+* Python
+* Keras
+* Qt
+* Matlab
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
