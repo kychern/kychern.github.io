@@ -2,10 +2,10 @@
 title: "Disentangled Representation Learning for 3D Face Shape"
 collection: publications
 permalink: /publication/cvpr2019-disentangle/
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2019-02-25
 venue: 'CVPR 2019'
-paperurl: 'To be released'
-citation: 'To be released'
+paperurl: ''
+citation: ''
 ---
 In this paper, we present a novel strategy to design disentangled 3D face shape representation. Specifically, a given 3D face shape is decomposed into identity part and expression part, which are both encoded and decoded in a nonlinear way. To solve this problem, we propose an attribute decomposition framework for 3D face mesh. To better represent face shapes which are usually nonlinear deformed between each other, the face shapes are represented by a vertex based deformation representation rather than Euclidean coordinates. The experimental results demonstrate that our method has better performance than existing methods on decomposing the identity and expression parts. Moreover, more natural expression transfer results can be achieved with our method than existing methods.
