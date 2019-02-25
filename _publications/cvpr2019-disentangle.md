@@ -3,7 +3,7 @@ title: "Disentangled Representation Learning for 3D Face Shape"
 collection: publications
 permalink: /publication/cvpr2019-disentangle/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-02
+date: 2019-02-25
 venue: 'CVPR 2019'
 paperurl: 'To-be-released'
 citation: 'To-be-released'
