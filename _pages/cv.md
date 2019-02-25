@@ -11,25 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computational Mathematics, University of Science and Technology of China (USTC), 2018
+* M.S. candidate in Computational Mathematics, University of Science and Technology of China (USTC)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017.10 - 2018.01: Research Intern
+  * [GCL@USTC](http://gcl.ustc.edu.cn/)
+  * Research: Develop real-time 3d facial expression transfer system.
+  * Supervisor: [Professor Juyong Zhang](http://staff.ustc.edu.cn/~juyong/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.02 - 2018.05: Software Engineering Intern
+  * [Dilusense](http://www.dilusense.com/) 
+  * Duties included: Implementing algorithms for 3D face reconstruction and expression transfer tasks. Regular testing and releasing.
+
+
+* 2018.05 - 2018.08: Student Developer
+  * [GSoC2018](https://summerofcode.withgoogle.com/)
+  * Project: [Extending Generalized Barycentric Coordinates](https://summerofcode.withgoogle.com/archive/2018/projects/6730399912820736/)
+  * Mentor: [Dr. Dmitry Anisimov](https://anisimovdmitry.com/#/about)
+
   
 Skills
 ======
-* Skill 1
+* C++ Programming
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
